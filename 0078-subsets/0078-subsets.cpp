@@ -2,12 +2,13 @@ class Solution {
 public:
 vector<vector<int>> result;
     vector<vector<int>> subsets(vector<int>& nums) {
-        gensubset(nums,0,{});
+        vector<int>curr;
+        gensubset(nums,0,curr);
         return result;
 
 
     }
-    void gensubset(vector<int>&nums,int index,vector<int> curr){
+    void gensubset(vector<int>&nums,int index,vector<int> &curr){
         if(index==nums.size()){
             result.push_back(curr);
             return;
