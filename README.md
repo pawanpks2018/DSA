@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawanpks2018/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
