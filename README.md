@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/pawanpks2018/DSA/tree/master/0066-plus-one) |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawanpks2018/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0040-combination-sum-ii](https://github.com/pawanpks2018/DSA/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/pawanpks2018/DSA/tree/master/0051-n-queens) |
+| [0066-plus-one](https://github.com/pawanpks2018/DSA/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/pawanpks2018/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pawanpks2018/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pawanpks2018/DSA/tree/master/0090-subsets-ii) |
