@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pawanpks2018/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pawanpks2018/DSA/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/pawanpks2018/DSA/tree/master/0216-combination-sum-iii) |
+| [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/pawanpks2018/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/pawanpks2018/DSA/tree/master/0079-word-search) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
