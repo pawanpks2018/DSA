@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/pawanpks2018/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/pawanpks2018/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pawanpks2018/DSA/tree/master/0090-subsets-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/pawanpks2018/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
 ## Bit Manipulation
@@ -72,4 +73,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0237-delete-node-in-a-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
