@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0216-combination-sum-iii](https://github.com/pawanpks2018/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/pawanpks2018/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/pawanpks2018/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0977-squares-of-a-sorted-array](https://github.com/pawanpks2018/DSA/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
