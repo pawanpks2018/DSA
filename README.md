@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
 ## String
 |  |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pawanpks2018/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0206-reverse-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 ## Two Pointers
 |  |
