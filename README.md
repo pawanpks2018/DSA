@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pawanpks2018/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/pawanpks2018/DSA/tree/master/0066-plus-one) |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawanpks2018/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pawanpks2018/DSA/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/pawanpks2018/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/pawanpks2018/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/pawanpks2018/DSA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/pawanpks2018/DSA/tree/master/0141-linked-list-cycle) |
