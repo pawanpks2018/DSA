@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/pawanpks2018/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/pawanpks2018/DSA/tree/master/0090-subsets-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/pawanpks2018/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0216-combination-sum-iii](https://github.com/pawanpks2018/DSA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/pawanpks2018/DSA/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/pawanpks2018/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pawanpks2018/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/pawanpks2018/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/pawanpks2018/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Quicksort
 |  |
@@ -162,4 +164,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/pawanpks2018/DSA/tree/master/0148-sort-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pawanpks2018/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/pawanpks2018/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
