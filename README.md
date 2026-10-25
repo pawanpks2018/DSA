@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/pawanpks2018/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/pawanpks2018/DSA/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/pawanpks2018/DSA/tree/master/0231-power-of-two) |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/pawanpks2018/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/pawanpks2018/DSA/tree/master/3875-construct-uniform-parity-array-i) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/pawanpks2018/DSA/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/pawanpks2018/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/pawanpks2018/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/pawanpks2018/DSA/tree/master/0234-palindrome-linked-list) |
 | [1922-count-good-numbers](https://github.com/pawanpks2018/DSA/tree/master/1922-count-good-numbers) |
 ## String
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/pawanpks2018/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/pawanpks2018/DSA/tree/master/0090-subsets-ii) |
+| [0231-power-of-two](https://github.com/pawanpks2018/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/pawanpks2018/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Hash Table
 |  |
